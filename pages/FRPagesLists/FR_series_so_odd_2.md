@@ -125,4 +125,4 @@ These CFTs have central charge $c=2p$, in agreement with the fomula above.
 
 * [Classification of Metaplectic Fusion Categories](https://arxiv.org/abs/1608.03762v2)
 * [Classification of Metaplectic Modular Categories](https://arxiv.org/abs/1601.05460v1)
-* [alatc package](https://github.com/ardonne/affine-lie-algebra-tensor-category)
+* [alatc.wl package](https://github.com/ardonne/affine-lie-algebra-tensor-category)
